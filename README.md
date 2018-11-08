@@ -8,3 +8,7 @@ import pickUpScroll from 'v-pick-up-scroll';
 import 'v-pick-up-scroll/css/v-pick-up-scroll.css'
 Vue.use(pickUpScroll);
 ```
+
+```js
+<div class='need-to-fixed-on-top' v-pick-up-scroll >
+```
