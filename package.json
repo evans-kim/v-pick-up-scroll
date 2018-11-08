@@ -1,0 +1,26 @@
+{
+  "name": "v-pick-up-scroll",
+  "version": "1.0.0",
+  "description": "Vue Directive, changing div position to fixed when window scroll skip it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evans-kim/v-pick-up-scroll.git"
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "fixed",
+    "scroll",
+    "event"
+  ],
+  "author": "Evans Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evans-kim/v-pick-up-scroll/issues"
+  },
+  "homepage": "https://github.com/evans-kim/v-pick-up-scroll#readme"
+}
